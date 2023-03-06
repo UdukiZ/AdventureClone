@@ -79,7 +79,7 @@ private void OnCollisionEnter2D(Collision2D collision){
             }
       }else if(collision.gameObject.name == "NPC_blue" ){
          textBox1.SetActive(true);
-         textBox.GetComponentInChildren<TextMeshProUGUI>().text = npcTexts[2];
+         textBox1.GetComponentInChildren<TextMeshProUGUI>().text = npcTexts[2];
       }
          
 
