@@ -8,6 +8,7 @@ TagManager:
   - Door
   - Key
   - NPC
+  - textBox
   layers:
   - Default
   - TransparentFX
