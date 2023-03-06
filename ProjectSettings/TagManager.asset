@@ -9,6 +9,7 @@ TagManager:
   - Key
   - NPC
   - textBox
+  - Exit
   layers:
   - Default
   - TransparentFX
